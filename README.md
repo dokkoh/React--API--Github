@@ -1,6 +1,7 @@
 # Moteur de recherche de dépots github avec React
 
-![image](https://github.com/dokkoh/React-API-GitHub/assets/100423136/f456871c-5e38-4122-9d78-5bc3b3006996)
+![image](https://github.com/dokkoh/React--API--Github/assets/100423136/dad864db-4158-4eed-b184-826eff417bd2)
+
 
 
 ## Technologies utilisées :
