@@ -7,6 +7,7 @@
   border-radius: 5px;
   box-shadow: 0 15px 10px rgba(0, 0, 0, 0.384);
   text-align: center;
+  overflow: auto;
 }
 
 .repo:hover {
@@ -24,6 +25,7 @@
   color: #586069;
 }
 .repo-info h2 {
+  overflow: hidden;
   border-top: 1px solid #e1e4e8;
   padding-top: 0.5em;
   color: #0366d6;
